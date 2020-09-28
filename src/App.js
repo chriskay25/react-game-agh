@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import PropTypes from 'prop-types'
-import {reducer} from './reducers/index.js'
 
 class App extends Component {
   render() {
