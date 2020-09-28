@@ -1,9 +1,9 @@
-import App from '../App.js';
-
-const initialState = { message: `It's easy to integrate React and Redux` }
+const initialState = {
+  message: `It's easy to integrate React and Redux, isn't it?`,
+};
 
 function reducer(state = initialState) {
-  return state
+  return state;
 }
 
-export default reducer
+export default reducer;
